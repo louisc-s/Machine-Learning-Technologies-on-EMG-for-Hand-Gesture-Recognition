@@ -1,6 +1,8 @@
 # Machine-Learning-Technologies-on-EMG-for-Hand-Gesture-Recognition
 Machine learning code implemented for hand gesture recognition using EMG data from the Ninapro db1 database 
 
+[Dissertation](https://drive.google.com/file/d/1vHzUKKFz1ifAaLOw91Sb41zo3zN5qRJl/view?usp=sharing)
+
 ## Overview
 
 This is the code for my final year master's engineering project. This project uses a mixture of machine 
